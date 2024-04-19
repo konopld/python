@@ -1,0 +1,82 @@
+[
+    {
+        "details": {
+            "Engine Pistons": 108,
+            "Gear Shafts": 57,
+            "Steering Knuckles": 62,
+            "Brake Discs": 127,
+            "Valve Bodies": 85
+        },
+        "date": "19-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 107,
+            "Gear Shafts": 137,
+            "Steering Knuckles": 142,
+            "Brake Discs": 108,
+            "Valve Bodies": 112
+        },
+        "date": "20-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 129,
+            "Gear Shafts": 121,
+            "Steering Knuckles": 119,
+            "Brake Discs": 70,
+            "Valve Bodies": 112
+        },
+        "date": "21-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 126,
+            "Gear Shafts": 102,
+            "Steering Knuckles": 81,
+            "Brake Discs": 60,
+            "Valve Bodies": 112
+        },
+        "date": "22-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 81,
+            "Gear Shafts": 109,
+            "Steering Knuckles": 138,
+            "Brake Discs": 140,
+            "Valve Bodies": 84
+        },
+        "date": "23-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 92,
+            "Gear Shafts": 104,
+            "Steering Knuckles": 50,
+            "Brake Discs": 64,
+            "Valve Bodies": 102
+        },
+        "date": "24-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 94,
+            "Gear Shafts": 106,
+            "Steering Knuckles": 122,
+            "Brake Discs": 141,
+            "Valve Bodies": 112
+        },
+        "date": "25-04-2024"
+    },
+    {
+        "details": {
+            "Engine Pistons": 100,
+            "Gear Shafts": 74,
+            "Steering Knuckles": 135,
+            "Brake Discs": 68,
+            "Valve Bodies": 74
+        },
+        "date": "26-04-2024"
+    }
+]
