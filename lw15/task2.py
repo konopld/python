@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 def main():
     # Створіть датафрейм з даними використання велодоріжок за рік, заданий варіантом (8)
@@ -22,9 +23,19 @@ def main():
 
     # визначення місяця з найбільшою кількістю заїздів
     most_popular_month = monthly_sum.idxmax()
+
+    # cтворення графіка
+    plt.figure(figsize=(10, 6))
+    monthly_sum.plot(kind='bar', color='skyblue')
+    plt.title('Кількість заїздів по місяцях')
+    plt.xlabel('Місяць')
+    plt.ylabel('Кількість заїздів')
+    plt.xticks(rotation=0)
+    plt.grid(True, linestyle='--', alpha=0.6)
+    plt.show()
     
-    print(f'Most popular month: {most_popular_month}')
-    print(f'Monthly sum: {monthly_sum}')
+    print(f'Найпопулярніший місяць: {most_popular_month}')
+    print(f'Заїзди по місяцях: {monthly_sum}')
 
 
 if __name__ == "__main__":
